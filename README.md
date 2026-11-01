@@ -119,4 +119,4 @@ Open both files with KiCad 10 or newer.
 
 ## License
 
-Add your license here (e.g. MIT, CERN-OHL-P).
+MIT License
